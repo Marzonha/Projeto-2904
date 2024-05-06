@@ -18,3 +18,7 @@
     background: linear-gradient(transparent, black);
 
 }
+a:hover{
+    text-decoration: none;
+    color: white;
+}
